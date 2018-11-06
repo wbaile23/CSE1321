@@ -1,0 +1,7 @@
+C:\Users\William Bailey\source\repos\CharShape\CharShape\bin\Debug\CharShape.exe.config
+C:\Users\William Bailey\source\repos\CharShape\CharShape\bin\Debug\CharShape.exe
+C:\Users\William Bailey\source\repos\CharShape\CharShape\bin\Debug\CharShape.pdb
+C:\Users\William Bailey\source\repos\CharShape\CharShape\obj\Debug\CharShape.csprojAssemblyReference.cache
+C:\Users\William Bailey\source\repos\CharShape\CharShape\obj\Debug\CharShape.csproj.CoreCompileInputs.cache
+C:\Users\William Bailey\source\repos\CharShape\CharShape\obj\Debug\CharShape.exe
+C:\Users\William Bailey\source\repos\CharShape\CharShape\obj\Debug\CharShape.pdb

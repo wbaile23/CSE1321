@@ -1,0 +1,7 @@
+C:\Users\William Bailey\source\repos\BestDeal\BestDeal\obj\Debug\BestDeal.csprojAssemblyReference.cache
+C:\Users\William Bailey\source\repos\BestDeal\BestDeal\obj\Debug\BestDeal.csproj.CoreCompileInputs.cache
+C:\Users\William Bailey\source\repos\BestDeal\BestDeal\bin\Debug\BestDeal.exe.config
+C:\Users\William Bailey\source\repos\BestDeal\BestDeal\bin\Debug\BestDeal.exe
+C:\Users\William Bailey\source\repos\BestDeal\BestDeal\bin\Debug\BestDeal.pdb
+C:\Users\William Bailey\source\repos\BestDeal\BestDeal\obj\Debug\BestDeal.exe
+C:\Users\William Bailey\source\repos\BestDeal\BestDeal\obj\Debug\BestDeal.pdb

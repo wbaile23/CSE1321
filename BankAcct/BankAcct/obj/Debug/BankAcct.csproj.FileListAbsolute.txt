@@ -1,0 +1,7 @@
+C:\Users\William Bailey\source\repos\BankAcct\BankAcct\bin\Debug\BankAcct.exe.config
+C:\Users\William Bailey\source\repos\BankAcct\BankAcct\bin\Debug\BankAcct.exe
+C:\Users\William Bailey\source\repos\BankAcct\BankAcct\bin\Debug\BankAcct.pdb
+C:\Users\William Bailey\source\repos\BankAcct\BankAcct\obj\Debug\BankAcct.csprojAssemblyReference.cache
+C:\Users\William Bailey\source\repos\BankAcct\BankAcct\obj\Debug\BankAcct.csproj.CoreCompileInputs.cache
+C:\Users\William Bailey\source\repos\BankAcct\BankAcct\obj\Debug\BankAcct.exe
+C:\Users\William Bailey\source\repos\BankAcct\BankAcct\obj\Debug\BankAcct.pdb
